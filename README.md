@@ -1,0 +1,42 @@
+# Hey, I'm Glen 👋
+
+**Staff software engineer building developer tools that make code better.** Currently focused on AI-powered workflows and static analysis tooling in Rust.
+
+## What I Do
+
+I build things that solve real problems. My work spans:
+
+- **Developer Tooling** - Building tools that improve code quality and developer productivity
+- **Static Analysis** - Fast, intelligent code complexity and technical debt detection
+- **AI Workflow Automation** - Turning AI assistance into reproducible, parallel development pipelines
+- **Systems Programming** - Rust-first approach to performance-critical applications
+
+## Featured Projects
+
+### [Prodigy](https://github.com/iepathos/prodigy)
+AI-powered workflow orchestration for development teams. Transforms ad-hoc Claude sessions into reproducible development pipelines with parallel execution, automatic retry, and full git state management. Built to make AI assistance systematic and reliable.
+`Tech: Rust, Claude AI, YAML workflows, Git integration`
+
+### [Debtmap](https://github.com/iepathos/debtmap)
+Fast code complexity and technical debt analyzer. Answers "what should I refactor?" and "what should I test first?" using entropy-based analysis. 10-100x faster than competitors with 70% fewer false positives. Actionable recommendations, not just metrics.
+`Tech: Rust, Rayon, Multi-language support (Rust, Python, JS, TS)`
+
+## Currently
+
+- 🔨 Building: Prodigy and Debtmap
+- 📚 Learning: Rust, Static Code Analysis, and how to make AI development more reliable
+- 💡 Interested in: The future of AI-assisted development tools
+
+## Let's Connect
+
+I'm open to interesting opportunities and collaborations, especially in:
+- Early-stage startups building infrastructure or developer tools
+- Open source projects with real-world impact
+- Technical co-founder opportunities
+
+**Email:** iepathos@gmail.com
+**LinkedIn:** [linkedin.com/in/glenbbaker](https://www.linkedin.com/in/glenbbaker/)
+
+---
+
+💬 *Always happy to discuss systems design, functional programming, or how AI can be leveraged to build a better future.*
