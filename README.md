@@ -1,6 +1,6 @@
 # Hey, I'm Glen 👋
 
-**Staff software engineer building open source developer tools.** Currently focused on AI-powered workflows and static analysis tooling in Rust.  I spent the last 8 years building a tech startup in Silicon Valley from early stage to an acquired enterprise vendor with tens of millions in ARR.  The startup requires global infrastructure with hundreds of servers often in sketchy network conditions in its fleet and thousands of mobile devices connected to them.  I was responsible for tooling and infrastructure that enabled the company to scale and meet the demands of customers, many of which are Fortune 500 companies.
+**Staff software engineer building open source developer tools.** Currently focused on scalable map-reduce AI-powered workflows and static analysis tooling in Rust.  I spent the last 8 years building a tech startup in Silicon Valley from early stage to an acquired enterprise vendor with tens of millions in ARR.  The startup requires global infrastructure with hundreds of servers often in sketchy network conditions in its fleet and thousands of mobile devices connected to them.  I was responsible for tooling and infrastructure that enabled the company to scale and meet the demands of customers, many of which are Fortune 500 companies.
 
 ## What I Do
 
