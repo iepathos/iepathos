@@ -10,6 +10,7 @@ I build things that solve real problems. My work spans:
 - **Static Analysis** - Fast, intelligent code complexity and technical debt detection
 - **AI Workflow Automation** - Turning AI assistance into reproducible, parallel development pipelines
 - **Systems Programming** - Rust-first approach to performance-critical applications
+- **CI/CD and Infrastructure as Code** - IaC and smart CI/CD to scale startups
 
 ## Featured Projects
 
