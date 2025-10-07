@@ -1,32 +1,33 @@
 # Hey, I'm Glen 👋
 
-**Staff software engineer building open source developer tools.** Currently focused on scalable map-reduce AI-powered workflows and static analysis tooling in Rust.  I spent the last 8 years building a tech startup in Silicon Valley from early stage to an acquired enterprise vendor with tens of millions in ARR.  The startup requires global infrastructure with hundreds of servers often in sketchy network conditions in its fleet and thousands of mobile devices connected to them.  I was responsible for tooling and infrastructure that enabled the company to scale and meet the demands of customers, many of which are Fortune 500 companies.
+I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition
+($20M+ ARR), building developer and operations tooling and global infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and thousands of
+connected mobile devices for Fortune 500 clients.
 
-## What I Do
+## Expertise
 
-I build things that solve real problems. My work spans:
-
-- **Developer Tooling** - Building tools that improve code quality and developer productivity
-- **Static Analysis** - Fast, intelligent code complexity and technical debt detection
-- **AI Workflow Automation** - Turning AI assistance into reproducible, parallel development pipelines
-- **Systems Programming** - Rust-first approach to performance-critical applications
-- **CI/CD and Infrastructure as Code** - IaC and smart CI/CD to scale startups
+- **Static Analysis & Developer Tooling** - Fast, actionable code quality analysis
+- **AI Workflow Orchestration** - Reproducible, parallel AI-assisted development
+- **Systems Programming** - Performance-critical applications in Rust
+- **Infrastructure at Scale** - CI/CD and IaC for distributed systems
 
 ## Featured Projects
 
-### [Prodigy](https://github.com/iepathos/prodigy)
-AI-powered workflow orchestration for development teams. Transforms ad-hoc Claude sessions into reproducible development pipelines with parallel execution, automatic retry, and full git state management. Built to make AI assistance systematic and reliable.
-`Tech: Rust, Claude AI, YAML workflows, Git integration`
-
 ### [Debtmap](https://github.com/iepathos/debtmap)
-Fast code complexity and technical debt analyzer. Answers "what should I refactor?" and "what should I test first?" using entropy-based analysis. 10-100x faster than competitors with 70% fewer false positives. Actionable recommendations, not just metrics.
-`Tech: Rust, Rayon, Multi-language support (Rust, Python, JS, TS)`
+Answers "what should I refactor first?" using entropy-based complexity analysis.
+10-100x faster than alternatives with 70% fewer false positives.
+`Rust • Rayon • Multi-language AST analysis`
+
+### [Prodigy](https://github.com/iepathos/prodigy)
+Transforms ad-hoc AI coding sessions into reproducible development pipelines
+with parallel execution and automatic recovery.
+`Rust • Claude AI • Git integration`
 
 ## Currently
 
-- 🔨 Building: Prodigy and Debtmap
-- 📚 Learning: Rust, Static Code Analysis, and how to make AI development more reliable
-- 💡 Interested in: The future of AI-assisted development tools
+- 🔨 Shipping: Debtmap with expanded language support
+- 💡 Exploring: How to make static analysis results more actionable
+- 📖 Writing: About code complexity metrics
 
 ## Let's Connect
 
