@@ -1,8 +1,8 @@
 # Hey, I'm Glen 👋
 
 I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition
-($20M+ ARR), building developer and operations tooling and global infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and thousands of
-connected mobile devices for Fortune 500 clients.
+($20M+ ARR), building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and thousands of
+connected mobile devices to deliver a real device and network testing platform with AI analytics to Fortune 500 companies.
 
 ## Expertise
 
