@@ -1,7 +1,6 @@
 # Hey, I'm Glen 👋
 
-I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition
-($20M+ ARR), building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and much for the the company which serves thousands of connected mobile devices globally to deliver a real device testing platform with AI analytics for Fortune 500 companies.  I've built distributed test runners, orchestrated the runners, and secured the untrusted code being ran in containers for isolation.  I've also built custom distributed build and deployment servers, monitoring dashboards, and so much more over my career.
+I've built a lot of diverse projects in my 13+ year career. I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition ($20M+ ARR), team building/mentoring younger engineers, building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, distributed test runners with isolated container environments for running untrusted code.  I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
 
 ## Expertise
 
