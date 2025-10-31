@@ -1,8 +1,7 @@
 # Hey, I'm Glen 👋
 
 I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition
-($20M+ ARR), building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and thousands of
-connected mobile devices to deliver a real device and network testing platform with AI analytics to Fortune 500 companies.
+($20M+ ARR), building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, and much for the the company which serves thousands of connected mobile devices globally to deliver a real device testing platform with AI analytics for Fortune 500 companies.  I've built distributed test runners, orchestrated the runners, and secured the untrusted code being ran in containers for isolation.  I've also built custom distributed build and deployment servers, monitoring dashboards, and a small mobile app for health checks.
 
 ## Expertise
 
