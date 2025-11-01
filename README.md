@@ -1,43 +1,42 @@
 # Hey, I'm Glen 👋
 
-I've built a lot of diverse projects in my 13+ year career. I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition ($20M+ ARR), team building/mentoring younger engineers, building developer tooling and infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments, distributed test runners with isolated container environments for running untrusted code.  I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
+**Staff Software Engineer | 13 years building systems that scale**
 
-## Expertise
+I've built many diverse projects in my 13+ year career. I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition, team building, mentoring younger engineers, building developer tooling, deployment code for infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments.  I designed and built distributed test runners with isolated container environments for running untrusted customer code. I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
 
-- **Static Analysis & Developer Tooling** - Fast, actionable code quality analysis
-- **AI Workflow Orchestration** - Reproducible, parallel AI-assisted development
-- **Systems Programming** - Performance-critical applications in Rust
-- **Infrastructure at Scale** - CI/CD and IaC for distributed systems
+## What I Build
 
-## Featured Projects
+**Developer Tools That Ship**
+- [Debtmap](https://github.com/iepathos/debtmap) - Entropy-based code complexity analysis. 10-100x faster than alternatives, 70% fewer false positives. Answers "what should I refactor first?" with actual data.
+- [Prodigy](https://github.com/iepathos/prodigy) - Transforms chaotic AI coding sessions into reproducible pipelines with parallel execution and automatic recovery. Because AI agents fail, a lot.  This brings infrastructure as code discipline to AI coding agent orchestration.
 
-### [Debtmap](https://github.com/iepathos/debtmap)
-Answers "what should I refactor first?" using entropy-based complexity analysis.
-10-100x faster than alternatives with 70% fewer false positives.
-`Rust • Rayon • Multi-language AST analysis`
+**Infrastructure at Scale**
+- Built distributed test runners for untrusted code execution (containerized isolation)
+- Designed CI/CD systems handling hundreds of edge servers + air-gapped deployments
+- Created monitoring and deployment infrastructure that survived an acquisition
 
-### [Prodigy](https://github.com/iepathos/prodigy)
-Transforms ad-hoc AI coding sessions into reproducible development pipelines
-with parallel execution and automatic recovery.
-`Rust • Claude AI • Git integration`
+**Core Skills**: Rust • Python • AWS • Distributed Systems • Team Building • Technical Leadership
 
 ## Currently
 
-- 🔨 Shipping: Debtmap with expanded language support
-- 💡 Exploring: How to make static analysis results more actionable
-- 📖 Writing: About code complexity metrics
+- 🚀 Shipping multi-language support for Debtmap
+- 🔬 Researching: Can we make linters opinionated enough to actually reduce complexity?
+- ✍️ Writing about why most code complexity metrics lie to you
 
-## Let's Connect
+## What I'm Looking For
 
-I'm open to interesting opportunities and collaborations, especially in:
-- Early-stage startups building infrastructure or developer tools
-- Open source projects with real-world impact
-- Technical co-founder opportunities
+I'm open to **Staff/Senior Staff** roles where:
+- Technical depth matters (systems, infrastructure, developer tools)
+- Building 0→1 is more common than maintaining legacy
+- I can mentor engineers and influence architecture
+- Bonus: Early-stage startups, deep tech, or technical co-founder opportunities
 
-**Email:** iepathos@gmail.com
-
-**LinkedIn:** [linkedin.com/in/glenbbaker](https://www.linkedin.com/in/glenbbaker/)
+Not interested in: FAANG-style leetcode grinds, or roles where "staff" means "senior engineer who's been here a while"
 
 ---
 
-💬 *Always happy to discuss systems design, functional programming, or how AI can be leveraged to build a better future.*
+**Let's talk**: iepathos@gmail.com | [LinkedIn](https://www.linkedin.com/in/glenbbaker/)
+
+*I'm particularly interested in companies working on developer productivity,
+infrastructure tooling, or practical AI applications. If you're building
+something that makes engineers' lives measurably better, I want to hear about it.*
