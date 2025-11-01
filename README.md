@@ -2,7 +2,7 @@
 
 **Staff Software Engineer | 13 years building systems that scale**
 
-I've built many diverse projects in my 13+ year career. I spent the last 8 years taking a Silicon Valley startup from seed stage to acquisition, team building, mentoring younger engineers, building developer tooling, deployment code for infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments.  I designed and built distributed test runners with isolated container environments for running untrusted customer code. I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
+I've built many diverse projects in my 13+ year career. I spent the last 8 years taking a Silicon Valley startup from early stage to acquisition, team building, mentoring younger engineers, and building better developer tooling. I wrote and maintained deployment code for infrastructure across AWS, hundreds of edge servers, air-gapped on-premise deployments. I designed and built distributed test runners with isolated container environments for running untrusted customer code. I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
 
 ## What I Build
 
