@@ -31,8 +31,6 @@ I'm open to **Staff/Senior Staff** roles where:
 - I can mentor engineers and influence architecture
 - Bonus: Early-stage startups, deep tech, or technical co-founder opportunities
 
-Not interested in: FAANG-style leetcode grinds, or roles where "staff" means "senior engineer who's been here a while"
-
 ---
 
 **Let's talk**: iepathos@gmail.com | [LinkedIn](https://www.linkedin.com/in/glenbbaker/)
