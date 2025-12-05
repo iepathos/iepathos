@@ -7,7 +7,7 @@ I'm a polyglot comfortable across the stack. I've built many diverse projects in
 ## What I Build
 
 **Developer Tools That Ship**
-- [Debtmap](https://github.com/iepathos/debtmap) - Entropy-based code complexity analysis. 10-100x faster than alternatives, 70% fewer false positives. Answers "what should I refactor first?" with actual data.
+- [Debtmap](https://github.com/iepathos/debtmap) - Multi-signal code analyzer that predicts bug hotspots by combining cognitive complexity, pattern recognition, coverage gaps, and git history. Uses information-theory entropy analysis and pattern detection (pure mappings, framework patterns, state machines) to eliminate false positives. Answers "what should I test or refactor first?" with quantified impact metrics and actionable recommendations.
 - [Prodigy](https://github.com/iepathos/prodigy) - Transforms chaotic AI coding sessions into reproducible pipelines with parallel execution and automatic recovery. Because AI agents fail, a lot.  This brings infrastructure as code discipline to AI coding agent orchestration.
 
 **Infrastructure at Scale**
@@ -19,9 +19,9 @@ I'm a polyglot comfortable across the stack. I've built many diverse projects in
 
 ## Currently
 
-- 🚀 Shipping multi-language support for Debtmap
+- 🚀 Shipping analysis and UX improvements for Debtmap
 - 🔬 Researching: Can we make linters opinionated enough to actually reduce complexity?
-- ✍️ Writing about why most code complexity metrics lie to you
+- ✍️ Writing about code analysis, Rust, and functional programming patterns
 
 ## What I'm Looking For
 
