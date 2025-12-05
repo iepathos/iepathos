@@ -7,7 +7,7 @@ I'm a polyglot comfortable across the stack. I've built many diverse projects in
 ## What I Build
 
 **Developer Tools That Ship**
-- [Debtmap](https://github.com/iepathos/debtmap) - Multi-signal code analyzer that predicts bug hotspots by combining cognitive complexity, pattern recognition, coverage gaps, and git history. Uses information-theory entropy analysis and pattern detection (pure mappings, framework patterns, state machines) to eliminate false positives. Answers "what should I test or refactor first?" with quantified impact metrics and actionable recommendations.
+- [Debtmap](https://github.com/iepathos/debtmap) - Multi-signal code analyzer that predicts bug hotspots by combining cognitive complexity, pattern recognition, coverage gaps, and git history. Uses information-theory entropy analysis, data flow, and pattern detection (pure mappings, framework patterns, state machines) to reduce false positives. Answers "what should I test or refactor first?" with quantified impact metrics and actionable recommendations.
 - [Prodigy](https://github.com/iepathos/prodigy) - Transforms chaotic AI coding sessions into reproducible pipelines with parallel execution and automatic recovery. Because AI agents fail, a lot.  This brings infrastructure as code discipline to AI coding agent orchestration.
 
 **Infrastructure at Scale**
