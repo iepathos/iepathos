@@ -21,7 +21,7 @@ I'm a polyglot comfortable across the stack. I've built many diverse projects in
 ## Currently
 
 - 🚀 Shipping analysis and UX improvements for Debtmap
-- 🔬 Researching: Can we make linters opinionated enough to actually reduce complexity?
+- 🔬 Researching: Functional programming and Rust
 - ✍️ Writing about code analysis, Rust, and functional programming patterns
 
 ## What I'm Looking For
