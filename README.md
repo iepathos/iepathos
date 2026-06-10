@@ -1,6 +1,6 @@
 # Hey, I'm Glen 👋
 
-**Staff Software Engineer | 14 years building for tech startups
+**Staff Software Engineer | 14 years building tech startups
 
 I'm a polyglot comfortable across the stack. I've built many diverse projects in my ~14 year career. I spent the last 8 years taking a Silicon Valley startup from early stage to acquisition, team building, mentoring younger engineers, and building better developer tooling. I wrote and maintained deployment code for infrastructure across AWS, hundreds of edge servers, and air-gapped on-premise deployments. I designed and coded distributed test runners with isolated container environments for running untrusted customer code. I also built custom distributed build and deployment servers, monitoring dashboards, Unity games - one of which is published on Steam and one of which won in the 2021 Houdini Game Jam, and so much more.
 
